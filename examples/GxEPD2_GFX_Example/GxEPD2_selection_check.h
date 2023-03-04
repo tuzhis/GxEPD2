@@ -69,6 +69,7 @@
 #define GxEPD2_270c_IS_3C true
 #define GxEPD2_420c_IS_3C true
 #define GxEPD2_420c_Z21_IS_3C true
+#define GxEPD2_420c_Z96_IS_3C true
 #define GxEPD2_583c_IS_3C true
 #define GxEPD2_583c_Z83_IS_3C true
 #define GxEPD2_750c_IS_3C true
